@@ -1,0 +1,460 @@
+{
+  "version": 1,
+  "checked_at": "2026-10-01",
+  "entries": [
+    {
+      "id": "K01",
+      "title": "知止：财富目标中的取舍",
+      "source_id": "S01",
+      "layers": [
+        "dao",
+        "qi"
+      ],
+      "tags": [
+        "知止",
+        "方向",
+        "生活",
+        "风险"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K02",
+      "title": "慎终如始：执行贯穿全过程",
+      "source_id": "S01",
+      "layers": [
+        "dao",
+        "fa",
+        "qi"
+      ],
+      "tags": [
+        "执行",
+        "慎终",
+        "复盘"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K03",
+      "title": "先为不可胜：先准备失败路径",
+      "source_id": "S02",
+      "layers": [
+        "fa",
+        "qi"
+      ],
+      "tags": [
+        "风险",
+        "准备",
+        "失败",
+        "计划"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K04",
+      "title": "无恒形：方法有适用条件",
+      "source_id": "S02",
+      "layers": [
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "环境",
+        "变化",
+        "适配"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K05",
+      "title": "能力圈：知道自己不理解什么",
+      "source_id": "S03",
+      "layers": [
+        "dao",
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "能力圈",
+        "边界",
+        "理解"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K06",
+      "title": "市场先生：报价与判断分开",
+      "source_id": "S04",
+      "layers": [
+        "dao",
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "独立",
+        "报价",
+        "市场先生"
+      ],
+      "source_status": "attributed_retelling",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K07",
+      "title": "安全边际：为估计错误留余地",
+      "source_id": "S05",
+      "layers": [
+        "fa",
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "安全边际",
+        "估值",
+        "风险"
+      ],
+      "source_status": "attributed_retelling",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K08",
+      "title": "坐得住：耐心必须有持有依据",
+      "source_id": "S06",
+      "layers": [
+        "dao",
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "耐心",
+        "持有",
+        "趋势"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K09",
+      "title": "研究错误：从结果追到可改进的问题",
+      "source_id": "S06",
+      "layers": [
+        "shu",
+        "fa",
+        "qi"
+      ],
+      "tags": [
+        "错误",
+        "复盘",
+        "经验"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K10",
+      "title": "反向思考：检查这件事如何失败",
+      "source_id": "S07",
+      "layers": [
+        "dao",
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "反证",
+        "失败",
+        "反向"
+      ],
+      "source_status": "attributed_retelling",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K11",
+      "title": "权威影响：大牛观点也需要检查",
+      "source_id": "S07",
+      "layers": [
+        "dao",
+        "qi"
+      ],
+      "tags": [
+        "权威",
+        "认知",
+        "独立"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K12",
+      "title": "概率意识：单笔结果与方法优势分开",
+      "source_id": "S08",
+      "layers": [
+        "dao",
+        "fa",
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "概率",
+        "结果",
+        "优势",
+        "复盘"
+      ],
+      "source_status": "publisher_description",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K13",
+      "title": "熟悉是线索：把观察转成研究",
+      "source_id": "S09",
+      "layers": [
+        "dao",
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "研究",
+        "熟悉",
+        "企业"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K14",
+      "title": "准备与预测分开：适应变化要有证据",
+      "source_id": "S10",
+      "layers": [
+        "dao",
+        "fa",
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "环境",
+        "周期",
+        "变化",
+        "准备"
+      ],
+      "source_status": "original_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K15",
+      "title": "炒股养家：低位不等于安全",
+      "source_id": "S11",
+      "layers": [
+        "dao",
+        "fa"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "超跌",
+        "低位",
+        "底部",
+        "风险"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K16",
+      "title": "炒股养家：情绪反馈：同时观察追涨与抄底",
+      "source_id": "S11",
+      "layers": [
+        "shu",
+        "fa"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "情绪",
+        "赚钱效应",
+        "亏钱效应",
+        "承接"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K17",
+      "title": "炒股养家：看好题材仍可以放弃交易",
+      "source_id": "S11",
+      "layers": [
+        "fa",
+        "dao"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "系统性风险",
+        "回撤",
+        "空仓",
+        "环境"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K18",
+      "title": "炒股养家：机会强弱决定参与程度",
+      "source_id": "S11",
+      "layers": [
+        "fa",
+        "shu"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "仓位",
+        "空间",
+        "机会",
+        "风险预算"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K19",
+      "title": "炒股养家：龙头名称不能替代机会判断",
+      "source_id": "S11",
+      "layers": [
+        "shu",
+        "dao"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "龙头",
+        "资金",
+        "群体博弈",
+        "跟随"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K20",
+      "title": "炒股养家：主流与次主流采用不同操作周期",
+      "source_id": "S11",
+      "layers": [
+        "shu",
+        "fa"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "主流",
+        "次主流",
+        "周期",
+        "题材"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K21",
+      "title": "炒股养家：板块联动需要持续验证",
+      "source_id": "S11",
+      "layers": [
+        "shu",
+        "qi"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "标杆",
+        "联动",
+        "板块",
+        "持续性"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K22",
+      "title": "炒股养家：超跌模式存在适用阶段",
+      "source_id": "S11",
+      "layers": [
+        "shu",
+        "fa"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "超跌反弹",
+        "左侧",
+        "右侧",
+        "适用边界"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K23",
+      "title": "炒股养家：有反弹不等于容易交易",
+      "source_id": "S11",
+      "layers": [
+        "shu",
+        "dao"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "反弹",
+        "可操作性",
+        "持仓",
+        "主动"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    },
+    {
+      "id": "K24",
+      "title": "炒股养家：判断与归属都要允许更正",
+      "source_id": "S11",
+      "layers": [
+        "qi",
+        "dao"
+      ],
+      "tags": [
+        "炒股养家",
+        "养家心法",
+        "归属",
+        "更正",
+        "核验",
+        "心法"
+      ],
+      "source_status": "signed_forum_replies_checked",
+      "personal_adoption": "pending",
+      "personal_effect": "unverified"
+    }
+  ]
+}

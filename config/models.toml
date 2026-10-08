@@ -1,0 +1,36 @@
+# 模型列表可以公开；密钥仅引用config/app.env中的环境项。
+[[models]]
+id = "kimi"
+label = "Kimi · kimi-k3"
+protocol = "claude"
+base_url = "https://new-api.jointpilot.com"
+model = "kimi-k3"
+key_env = "TRADING_KIMI_API_KEY"
+vision = true
+
+[[models]]
+id = "deepseek-flash"
+label = "DeepSeek · Flash"
+protocol = "openai"
+base_url = "https://api.deepseek.com"
+model = "deepseek-flash"
+key_env = "TRADING_DEEPSEEK_API_KEY"
+thinking = false
+vision = true
+
+[[models]]
+id = "deepseek-pro"
+label = "DeepSeek · V4 Pro"
+protocol = "openai"
+base_url = "https://api.deepseek.com"
+model = "deepseek-v4-pro"
+key_env = "TRADING_DEEPSEEK_API_KEY"
+thinking = false
+
+[[models]]
+id = "custom-openai"
+label = "自定义 OpenAI 兼容模型"
+protocol = "openai"
+base_url = ""
+model = ""
+key_env = "TRADING_CUSTOM_API_KEY"

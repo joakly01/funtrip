@@ -1,0 +1,16 @@
+{
+  "pages": [
+    {
+      "path": "pages/workspace/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "有趣的旅途"
+      }
+    }
+  ],
+  "globalStyle": {
+    "backgroundColor": "#f6f7f3",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#f6f7f3"
+  }
+}

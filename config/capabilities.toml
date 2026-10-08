@@ -1,0 +1,28 @@
+# 新能力：添加 SKILL.md，再在这里声明职责和可复用工具；无需改页面。
+[[agents]]
+id = "learning"
+name = "学习伙伴"
+description = "梳理原意、自己的理解与适用边界"
+skill = "trading-classic-learning"
+tools = ["memory_search", "memory_read", "classic_search", "market_study", "market_trend", "market_pattern", "market_selection", "evidence_check", "read_skill_reference"]
+
+[[agents]]
+id = "planning"
+name = "计划检查伙伴"
+description = "检查依据、失效条件、风险与执行缺口"
+skill = "trading-plan-review"
+tools = ["memory_search", "memory_read", "strategy_get", "rules_check", "risk_compute", "positions_get", "market_study", "market_trend", "market_pattern", "market_selection", "read_skill_reference"]
+
+[[agents]]
+id = "review"
+name = "复盘伙伴"
+description = "对照事前记录，区分判断、执行和结果"
+skill = "trading-experience-review"
+tools = ["memory_search", "memory_read", "strategy_get", "market_study", "market_trend", "market_pattern", "market_selection", "evidence_check", "read_skill_reference"]
+
+[[agents]]
+id = "evolution"
+name = "体系回顾伙伴"
+description = "比较支持、反例与环境解释，提出改进方向"
+skill = "trading-environment-review"
+tools = ["memory_search", "memory_read", "strategy_get", "classic_search", "market_study", "market_trend", "market_pattern", "market_selection", "evidence_check", "read_skill_reference"]

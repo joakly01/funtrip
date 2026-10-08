@@ -1,0 +1,28 @@
+{
+  "name": "交易伙伴",
+  "appid": "",
+  "description": "私人交易工作台",
+  "versionName": "0.6.0",
+  "versionCode": 60,
+  "transformPx": false,
+  "vueVersion": "3",
+  "h5": {
+    "title": "有趣的旅途 · 交易伙伴",
+    "router": {
+      "mode": "hash",
+      "base": "/next/"
+    }
+  },
+  "mp-weixin": {
+    "appid": "wxa98b45223e9819c2",
+    "setting": {
+      "urlCheck": true,
+      "es6": true,
+      "minified": true
+    },
+    "usingComponents": true
+  },
+  "uniStatistics": {
+    "enable": false
+  }
+}

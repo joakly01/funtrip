@@ -1,0 +1,17 @@
+[Unit]
+Description=Personal Trading Partner
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=@APP_USER@
+WorkingDirectory=@APP_ROOT@/current
+EnvironmentFile=@APP_ROOT@/config/app.env
+ExecStart=@APP_ROOT@/.venv/bin/python -m cloud_trading --host 127.0.0.1 --port 8097
+Restart=on-failure
+RestartSec=5
+TimeoutStopSec=200
+
+[Install]
+WantedBy=multi-user.target

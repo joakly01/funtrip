@@ -1,0 +1,38 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+config/*.env
+data/
+*.egg-info/
+.DS_Store
+
+frontend/node_modules/
+frontend/dist/
+frontend/*.tsbuildinfo
+
+# Private machine configuration and local runtime artifacts
+.codex/
+.env.*
+!.env.example
+*.env.local
+*.sqlite
+*.sqlite3
+*.db
+*.ses
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+miniprogram/project.private.config.json
+
+# Personal screenshots and local verification captures
+/docs/**/*.png
+/docs/**/*.jpg
+/docs/**/*.jpeg
+/docs/**/*.webp
+
+# Extracted engine is versioned under vendor/runtime_core
+agent-runtime/
+node_modules/

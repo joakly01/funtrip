@@ -1,0 +1,11 @@
+services:
+  trading-partner:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    env_file: config/app.env
+    ports:
+      - "127.0.0.1:8097:8097"
+    volumes:
+      - ./data/cloud:/data
+    restart: unless-stopped

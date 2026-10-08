@@ -1,0 +1,15 @@
+[Unit]
+Description=Personal Trading Partner Web
+After=network.target trading-partner.service
+Requires=trading-partner.service
+
+[Service]
+Type=simple
+ExecStartPre=/usr/sbin/nginx -t -c @APP_ROOT@/current/deploy/nginx.conf -p @APP_ROOT@/
+ExecStart=/usr/sbin/nginx -c @APP_ROOT@/current/deploy/nginx.conf -p @APP_ROOT@/ -g "daemon off;"
+ExecReload=/bin/kill -HUP $MAINPID
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
